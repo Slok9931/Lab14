@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std
 int main(){
-	cout << "Hello Slok" << endl;
+	cout << "Hii Slok" << endl;
 	return 0;
 }
